@@ -44,4 +44,4 @@ Hi there 👋, My name is Rishabh. A self-taught, passionate and fast-learner fu
 }
 ```
 
-<img src="https://github-readme-stats.vercel.app/api/?username=lgope&show_icons=true&title_color=#454441&icon_color=79ff97&text_color=#454441&bg_color=#dedcd7">
+<img src="https://github-readme-stats.vercel.app/api/?username=rishabhgist&show_icons=true&title_color=#454441&icon_color=79ff97&text_color=#454441&bg_color=#dedcd7">
