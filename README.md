@@ -26,21 +26,23 @@ Here are some ideas to get you started:
 
 Hi there 👋, My name is Rishabh. A self-taught, passionate and fast-learner full-stack developer from Noida, IN 🌎. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. Now I am working as a Javascript Developer 🚀.
 
-- 🔭 I’m currently working on JavaScript,
-- 🌱 I’m currently learning MERN Stack
+- 🔭 I’m currently working on Java, Angular
+- 🌱 I’m currently learning MEAN Stack
+- 👯 I’m looking to collaborate on Web Develpment Projects
 - 💬 Ask me about #HTML #CSS #JS
+
 - 😄 Pronouns: he/him
 
 ## {...} My Stack 💻🚀
 
 ```js
 {
-  languages: ['JavaScript', 'Php', 'Sass', 'Java'],
+  languages: ['Java', 'PHP', 'HTML', 'CSS'],
   backend: ['NodeJs', 'Laravel'],
-  frontend: ['ReactJs', 'VueJs'],
-  databases: ['MongoDB', "Sql"],
-  tools: ['Vs code', 'Sublime', 'Slack'],
-  Open Source: ['Git, GitHub']
+  frontend: ['Angular', 'VueJs', 'Sass'],
+  databases: ['MongoDB', 'MySQL'],
+  tools: ['VS Code', 'Sublime', 'Atom', 'IntelliJ Idea'],
+  vcs : ['Git, GitHub','Gitlab']
 }
 ```
 
