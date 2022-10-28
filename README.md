@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/rishabhgist/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:rishabhgist@gmail.com?subject=From%20GitHub&cc=rishabhgist@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
-Hi there 👋, My name is Rishabh. A self-taught, passionate and fast-learner full-stack developer from Noida, IN 🌎. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. Now I am working as a Javascript Developer 🚀.
+Hi there 👋, My name is Rishabh. A self-taught, passionate and fast-learner full-stack developer from Noida, IN 🌎. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. Now I am working as a Web Developer 🚀.
 
 - 🔭 I’m currently working on Java, Angular
 - 🌱 I’m currently learning MEAN Stack
@@ -47,3 +47,5 @@ Hi there 👋, My name is Rishabh. A self-taught, passionate and fast-learner fu
 ```
 
 <img src="https://github-readme-stats.vercel.app/api/?username=rishabhgist&show_icons=true&title_color=#454441&icon_color=79ff97&text_color=#454441&bg_color=#dedcd7">
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhgist">
