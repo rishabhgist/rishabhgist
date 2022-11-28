@@ -37,12 +37,12 @@ Hi there 👋, My name is Rishabh. A self-taught, passionate and fast-learner fu
 
 ```js
 {
-  languages: ['Java', 'PHP', 'HTML', 'CSS'],
-  backend: ['NodeJs', 'Laravel'],
+  languages: ['Java', 'PHP', 'HTML', 'CSS', 'JavaScript', 'TypeScript'],
+  backend: ['NodeJs', 'Laravel', 'Spring Boot'],
   frontend: ['Angular', 'VueJs', 'Sass'],
-  databases: ['MongoDB', 'MySQL'],
+  databases: ['MongoDB', 'MySQL', 'H2-DB'],
   tools: ['VS Code', 'Sublime', 'Atom', 'IntelliJ Idea'],
-  vcs : ['Git, GitHub','Gitlab']
+  vcs : ['Git','GitHub','Gitlab']
 }
 ```
 
