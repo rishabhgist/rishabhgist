@@ -40,8 +40,8 @@ Hi there 👋, My name is Rishabh. A self-taught, passionate and fast-learner fu
   languages: ['Java', 'PHP', 'HTML', 'CSS', 'JavaScript', 'TypeScript'],
   backend: ['NodeJs', 'Laravel', 'Spring Boot'],
   frontend: ['Angular', 'VueJs', 'Sass'],
-  databases: ['MongoDB', 'MySQL', 'H2-DB'],
-  tools: ['VS Code', 'Sublime', 'Atom', 'IntelliJ Idea'],
+  databases: ['MongoDB', 'MySQL', 'H2-DB', 'Neo4j'],
+  tools: ['VS Code', 'Sublime', 'Atom', 'IntelliJ Idea', 'Swagger'],
   vcs : ['Git','GitHub','Gitlab']
 }
 ```
