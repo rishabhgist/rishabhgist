@@ -40,7 +40,7 @@ Hi there 👋, My name is Rishabh. A passionate and fast-learner full-stack deve
 {
   languages: ['HTML', 'CSS', 'JavaScript', 'TypeScript','Java', 'PHP'],
   backend: ['NodeJs', 'Spring Boot'],
-  frontend: ['Angular','React', 'Next.js', 'CSS', 'SCSS'],
+  frontend: ['Angular','React', 'Next.js', 'SCSS'],
   databases: ['MongoDB', 'MySQL', 'H2-DB', 'Neo4j'],
   tools: ['VS Code', 'Sublime', 'Atom', 'IntelliJ Idea', 'Swagger'],
   vcs : ['Git','GitHub','Gitlab']
