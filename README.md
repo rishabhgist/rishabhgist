@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/rishabhgist/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:rishabhgist@gmail.com?subject=From%20GitHub&cc=rishabhgist@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
-Hi there 👋, My name is Rishabh. A self-taught, passionate and fast-learner full-stack developer from Noida, IN 🌎. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. Now I am working as a Web Developer 🚀.
+Hi there 👋, My name is Rishabh. A passionate and fast-learner full-stack developer from Noida, IN 🌎. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. I am as working as a Full Stack Web Developer 🚀.
 
 - 🔭 I’m currently working on Java, Angular
 - 🌱 I’m currently learning MEAN Stack
@@ -38,9 +38,9 @@ Hi there 👋, My name is Rishabh. A self-taught, passionate and fast-learner fu
 
 ```js
 {
-  languages: ['Java', 'PHP', 'HTML', 'CSS', 'JavaScript', 'TypeScript'],
-  backend: ['NodeJs', 'Laravel', 'Spring Boot'],
-  frontend: ['Angular', 'VueJs', 'Sass'],
+  languages: ['HTML', 'CSS', 'JavaScript', 'TypeScript','Java', 'PHP'],
+  backend: ['NodeJs', 'Spring Boot'],
+  frontend: ['Angular','React', 'Next.js', 'CSS', 'SCSS'],
   databases: ['MongoDB', 'MySQL', 'H2-DB', 'Neo4j'],
   tools: ['VS Code', 'Sublime', 'Atom', 'IntelliJ Idea', 'Swagger'],
   vcs : ['Git','GitHub','Gitlab']
